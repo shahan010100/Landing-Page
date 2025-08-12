@@ -1,0 +1,1 @@
+This is just a simple web page design created by using HTML & CSS.
